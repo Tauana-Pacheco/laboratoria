@@ -37,3 +37,9 @@ let decisao =  window.prompt('Deseja continuar com processo?')
 
           }
          }
+         
+         let docu = document.getElementById('docu').textContent ;
+         resresultados1.innerHTML = resCorreta;
+         
+
+         
